@@ -1,0 +1,3 @@
+kubectl create secret tls wisecow-tls \
+  --cert=path/to/cert.crt \
+  --key=path/to/cert.key
