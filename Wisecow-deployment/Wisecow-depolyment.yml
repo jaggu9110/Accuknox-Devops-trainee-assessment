@@ -16,4 +16,4 @@ spec:
       - name: wisecow
         image: your-container-registry/wisecow-app:latest
         ports:
-        - containerPort: 3000
+        - containerPort: 4499
